@@ -1,0 +1,159 @@
+[2025-05-28 15:54:37] USER: I like programming
+[2025-05-28 15:54:37] BOT: You could explore careers like Software Engineer, Data Scientist, or AI Researcher.
+
+--- New Session ---
+
+[2025-05-28 15:55:27] USER: i love painting and acting
+[2025-05-28 15:55:27] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 16:03:34] USER: I like cricket
+[2025-05-28 16:03:34] BOT: Consider careers like Chartered Accountant, Business Analyst, or Investment Banker.
+
+--- New Session ---
+
+[2025-05-28 16:05:17] USER: i like painting
+[2025-05-28 16:05:17] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 16:09:40] USER:  I like cricket
+[2025-05-28 16:09:40] BOT: Consider careers like Chartered Accountant, Business Analyst, or Investment Banker.
+
+--- New Session ---
+
+[2025-05-28 16:10:21] USER:  I like cricket
+[2025-05-28 16:10:21] BOT: Consider careers like Chartered Accountant, Business Analyst, or Investment Banker.
+[2025-05-28 16:10:21] USER: I like painting
+[2025-05-28 16:10:21] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 16:14:53] USER:  I like cricket
+[2025-05-28 16:14:53] BOT: Consider careers like Chartered Accountant, Business Analyst, or Investment Banker.
+[2025-05-28 16:14:53] USER: I like painting
+[2025-05-28 16:14:53] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+[2025-05-28 16:14:53] USER: hi
+[2025-05-28 16:14:53] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 16:15:11] USER:  I like cricket
+[2025-05-28 16:15:11] BOT: Consider careers like Chartered Accountant, Business Analyst, or Investment Banker.
+[2025-05-28 16:15:11] USER: I like painting
+[2025-05-28 16:15:11] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+[2025-05-28 16:15:11] USER: hi
+[2025-05-28 16:15:11] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 16:15:11] USER: I like sports
+[2025-05-28 16:15:11] BOT: You might pursue a path as an Athlete, Coach, Sports Manager, or Fitness Trainer.
+
+--- New Session ---
+
+[2025-05-28 16:55:06] USER: hello
+[2025-05-28 16:55:06] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:01:09] USER: hello
+[2025-05-28 17:01:09] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:04:07] USER: hi
+[2025-05-28 17:04:07] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:04:19] USER: hi
+[2025-05-28 17:04:19] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 17:04:19] USER: i love painting and acting
+[2025-05-28 17:04:19] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 17:07:28] USER: hello
+[2025-05-28 17:07:28] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:07:51] USER: hello
+[2025-05-28 17:07:51] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 17:07:51] USER: i love painting and acting
+[2025-05-28 17:07:51] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 17:08:16] USER: hello
+[2025-05-28 17:08:16] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:10:35] USER: hello
+[2025-05-28 17:10:35] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:11:23] USER: hello
+[2025-05-28 17:11:23] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:13:40] USER: hello
+[2025-05-28 17:13:40] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 17:13:40] USER: I like sport
+[2025-05-28 17:13:40] BOT: You might pursue a path as an Athlete, Coach, Sports Manager, or Fitness Trainer.
+
+--- New Session ---
+
+[2025-05-28 17:13:58] USER: hello
+[2025-05-28 17:13:58] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 17:13:58] USER: I like sport
+[2025-05-28 17:13:58] BOT: You might pursue a path as an Athlete, Coach, Sports Manager, or Fitness Trainer.
+[2025-05-28 17:13:58] USER: I like painting
+[2025-05-28 17:13:58] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 17:18:50] USER: hello
+[2025-05-28 17:18:50] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 17:19:05] USER: hello
+[2025-05-28 17:19:05] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 17:19:05] USER: i like painting
+[2025-05-28 17:19:05] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+--- New Session ---
+
+[2025-05-28 17:19:13] USER: hello
+[2025-05-28 17:19:13] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 17:19:13] USER: i like painting
+[2025-05-28 17:19:13] BOT: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+[2025-05-28 17:19:13] USER: Bye
+[2025-05-28 17:19:13] BOT: Thank you for chatting with me. Good luck with your future career!
+
+--- New Session ---
+
+[2025-05-28 21:01:55] USER: hello
+[2025-05-28 21:01:55] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+--- New Session ---
+
+[2025-05-28 21:02:18] USER: hello
+[2025-05-28 21:02:18] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 21:02:18] USER: I like arts
+[2025-05-28 21:02:18] BOT: You might pursue a path as an Athlete, Coach, Sports Manager, or Fitness Trainer.
+
+--- New Session ---
+
+[2025-05-28 21:02:37] USER: hello
+[2025-05-28 21:02:37] BOT: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+[2025-05-28 21:02:37] USER: I like arts
+[2025-05-28 21:02:37] BOT: You might pursue a path as an Athlete, Coach, Sports Manager, or Fitness Trainer.
+[2025-05-28 21:02:37] USER: Bye
+[2025-05-28 21:02:37] BOT: Thank you for chatting with me. Good luck with your future career!
+
+--- New Session ---
+

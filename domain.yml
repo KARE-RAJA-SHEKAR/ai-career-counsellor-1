@@ -1,0 +1,80 @@
+version: "2.0"
+
+intents:
+  - tech
+  - arts
+  - commerce
+  - medicine
+  - sports
+  - law
+  - education
+  - science
+  - agriculture
+  - defense
+  - hospitality
+  - aviation
+  - fashion
+  - media
+  - entrepreneurship
+  - bot_info
+  - goodbye
+  - greet
+
+responses:
+  utter_greet:
+    - text: Hello! I'm your AI Career Counsellor. Tell me about your interests and I'll suggest a career path.
+
+  utter_goodbye:
+    - text: Thank you for chatting with me. Good luck with your future career!
+
+  utter_iambot:
+    - text: I'm an AI-powered career guidance bot built using Rasa and Streamlit to help you choose the right career path.
+
+  utter_recommend_tech:
+    - text: You could explore careers like Software Engineer, Data Scientist, or AI Researcher.
+
+  utter_recommend_arts:
+    - text: You might enjoy becoming a Musician, Painter, Graphic Designer, or Actor.
+
+  utter_recommend_commerce:
+    - text: Consider careers like Chartered Accountant, Business Analyst, or Investment Banker.
+
+  utter_recommend_medicine:
+    - text: You can consider being a Doctor, Surgeon, Dentist, or Medical Researcher.
+
+  utter_recommend_sports:
+    - text: You might pursue a path as an Athlete, Coach, Sports Manager, or Fitness Trainer.
+
+  utter_recommend_law:
+    - text: You could become a Lawyer, Judge, Legal Advisor, or Corporate Counsel.
+
+  utter_recommend_education:
+    - text: Careers in teaching, educational psychology, or academic research might interest you.
+
+  utter_recommend_science:
+    - text: Think about becoming a Physicist, Chemist, Research Scientist, or Lab Technician.
+
+  utter_recommend_agriculture:
+    - text: Explore roles like Agronomist, Agricultural Engineer, or Farm Manager.
+
+  utter_recommend_defense:
+    - text: You might be interested in joining the Army, Navy, Air Force, or working in Cyber Defense.
+
+  utter_recommend_hospitality:
+    - text: Consider becoming a Hotel Manager, Chef, Event Planner, or Travel Consultant.
+
+  utter_recommend_aviation:
+    - text: You could explore careers as a Pilot, Air Traffic Controller, or Aerospace Engineer.
+
+  utter_recommend_fashion:
+    - text: A career as a Fashion Designer, Stylist, or Fashion Blogger may suit you.
+
+  utter_recommend_media:
+    - text: Consider being a Journalist, News Anchor, Filmmaker, or Content Creator.
+
+  utter_recommend_entrepreneurship:
+    - text: You might thrive as a Startup Founder, Business Consultant, or Venture Capitalist.
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
