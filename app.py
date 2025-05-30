@@ -34,11 +34,6 @@ with st.form(key="chat_form", clear_on_submit=True):
     user_input = st.text_input("You:", "")
     submit_button = st.form_submit_button(label="Send")
 
-# Clear chat button
-if st.button("Clear Chat"):
-    st.session_state.messages = []
-    st.experimental_rerun()
-
 if submit_button and user_input:
     st.session_state.messages.append({"sender": "user", "text": user_input})
 
