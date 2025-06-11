@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: rasa-career-bot
+    name: career-bot
     env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: rasa run --enable-api --cors "*" --debug --port 10000
     plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py
     envVars:
-      - key: PORT
-        value: 10000
+      - key: PYTHON_VERSION
+        value: 3.10
